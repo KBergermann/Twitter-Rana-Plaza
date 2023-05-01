@@ -4,7 +4,7 @@ This repository contains python3 and Matlab codes reproducing the results from t
 
 **Paper:**
 
-[1] K. Bergermann & M. Wolter (2023) A Twitter network and discourse analysis of the Rana Plaza collapse. [arXiv:...](https://arxiv.org/pdf/....pdf).
+[1] K. Bergermann & M. Wolter (2023) A Twitter network and discourse analysis of the Rana Plaza collapse. [arXiv:2304.14706](https://arxiv.org/pdf/2304.14706.pdf).
 
 **Requirements:**
  - The Matlab file "communities/GenLouvain.m" requires the code from [https://github.com/GenLouvain/GenLouvain](https://github.com/GenLouvain/GenLouvain) to be saved in the directory "communities/"
@@ -26,6 +26,6 @@ This repository contains:
  - communities/GenLouvain.m: computes the Generalized Louvain community structure for multiplex networks [3] if GenLouvain codes are available, see Requirements.
  
 **References:**
- - [1] K. Bergermann & M. Wolter (2023) A Twitter network and discourse analysis of the Rana Plaza collapse. [arXiv:...](https://arxiv.org/pdf/....pdf).
+ - [1] K. Bergermann & M. Wolter (2023) A Twitter network and discourse analysis of the Rana Plaza collapse. [arXiv:2304.14706](https://arxiv.org/pdf/2304.14706.pdf).
  - [2] Bergermann, K. & Stoll, M. (2022) Fast computation of matrix function-based centrality measures for layer-coupled multiplex networks. Physical Review E, 105(3), 034305. https://doi.org/10.1103/PhysRevE.105.034305
  - [3] Mucha, P. J., Richardson, T., Macon, K., Porter, M. A. & Onnela, J.-P. (2010) Community structure in time-dependent, multiscale, and multiplex networks. Science 328, 876-878.
